@@ -2,14 +2,14 @@
   "name": "dwo/config_prototype",
   "description": ":TODO:",
   "keywords": ["config", "configuration", "prototype", "treebuilder"],
-  "homepage": "http://www.lovoo.com",
+  "homepage": "https://github.com/davewwww",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "David Wolter",
-      "email": "david@lovoo.com",
-      "homepage": "http://www.lovoo.com"
+      "name": "Dave Www",
+      "email": "davewwwo@gmail.com",
+      "homepage": "https://github.com/davewwww"
     }
   ],
   "require": {
@@ -24,7 +24,6 @@
   "require-dev": {
     "phpunit/phpunit": "~4.6"
   },
-  "minimum-stability": "dev",
   "extra": {
     "branch-alias": {
       "dev-master": "1.0-dev"
